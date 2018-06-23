@@ -2,3 +2,33 @@
 ---
 
 @import "{{ site.theme }}";
+
+
+a {
+  color: #2296c0;
+}
+
+h1, h2 {
+color: #2296c0;
+}
+
+h3, h4 {
+color: #d85252;
+}
+
+
+
+.member {
+float: left;
+width: 50%;
+}
+
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
+.nav-item {
+color: #2296c0;
+padding: 0.5em;
+}
