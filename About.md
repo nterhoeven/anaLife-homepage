@@ -1,16 +1,23 @@
-## Welcome to the World of Data Science
+## AnaLife Data Science
 
 
 
-<img src="img/R_code.jpg" style="float:right" width="250px">
 
-We offer a wide range of Data Science related services.
+
+<!---<img src="img/R_code.jpg" style="float:right" width="250px">--->
+
+We are a new StartUp from Würzburg and offer a wide range of Data Science related services.
 
 - Analysis of all kinds of data
 - Data driven consulting
 - Bioinformatics
 - Courses in data analysis, Unix and programming
 
+Feel free to [Contact us](mailto:info@analife.de) if you have any questions.
+
+<img src="img/R_code.jpg" width="100%">
+
+<!---
 ### Analysis service
 
 You have a dataset and want to learn something from it?
@@ -45,3 +52,4 @@ We offer various bioinformatic services. Some examples are
 Want to learn more about data analysis, Linux/Unix or programming?
 We offer courses of various length and levels.
 [Contact us](mailto:info@analife.de) if you are interested in learning more.
+-->
