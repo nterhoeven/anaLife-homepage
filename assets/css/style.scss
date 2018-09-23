@@ -3,19 +3,35 @@
 
 @import "{{ site.theme }}";
 
+#main_content_wrap {
+background-image: url("../../img/R_code.jpg");
+background-position: center; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: cover ; /* Resize the background image to cover the entire container */
+}
+
+#main_content.inner {
+background: rgba(55,55,55,0.9);
+height: 100vh;
+}
+
+p, ul {
+color: #f2f2f2;
+}
+
+
 
 a {
-  color: #2296c0;
+  color: #5fd38d;
 }
 
 h1, h2 {
-color: #2296c0;
+color: #5fd38d;
 }
 
 h3, h4 {
-color: #d85252;
+color: #808080;
 }
-
 
 
 .member {
@@ -29,6 +45,21 @@ display: table;
 clear: both;
 }
 .nav-item {
-color: #2296c0;
+color: #5fd38d;
 padding: 0.5em;
+}
+
+.contact_button {
+display: block;
+margin: auto;
+margin-top: 5em;
+padding: 10px;
+width: 10em;
+border: 2px;
+border-color: #808080;
+border-style: solid;
+background: #5fd38d;
+color: #808080;
+font-size: 30px;
+text-align: center;
 }

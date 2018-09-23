@@ -13,11 +13,16 @@ We are a new StartUp from Würzburg and offer a wide range of Data Science relat
 - Bioinformatics
 - Courses in data analysis, Unix and programming
 
-Feel free to [Contact us](mailto:info@analife.de) if you have any questions.
+If you have any questions and want to contact us, please click the button below.
 
-<img src="img/R_code.jpg" width="100%">
+
+<a href="mailto:info@analife.de" id="contact" class="contact_button"> Contact Us </a>
+
 
 <!---
+<img src="img/R_code.jpg" width="100%">
+
+
 ### Analysis service
 
 You have a dataset and want to learn something from it?
