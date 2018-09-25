@@ -6,7 +6,7 @@
 
 <!---<img src="img/R_code.jpg" style="float:right" width="250px">--->
 
-We are a new StartUp from Würzburg and offer a wide range of Data Science related services.
+We are a StartUp from Würzburg and offer a wide range of Data Science related services.
 
 - Analysis of all kinds of data
 - Data driven consulting
