@@ -22,5 +22,6 @@ Email: info@analife.de
 <br>Ludwig Leidinger
 <br>Niklas Terhoeven</p>
 <h2>Berufsrechtliche Angaben </h2>
+Keine Angaben erforderlich.
 <h2>Hinweise zur Website</h2>
 <p><em>Das Impressum wurde mit dem <a href="https://www.activemind.de/datenschutz/impressums-generator/">Impressums-Generator der activeMind AG</a> erstellt.</em></p>
