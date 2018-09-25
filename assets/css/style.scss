@@ -12,7 +12,7 @@ background-size: cover ; /* Resize the background image to cover the entire cont
 
 #main_content.inner {
 background: rgba(55,55,55,0.9);
-height: 100vh;
+min-height: 75vh;
 }
 
 p, ul {
