@@ -29,11 +29,11 @@ color: #f2f2f2;
 }
 
 a {
-  color: #5fd38d;
+  color: $analife-color;
 }
 
 h1, h2 {
-color: #5fd38d;
+color: $analife-color;
 }
 
 h3, h4 {
@@ -52,7 +52,7 @@ display: table;
 clear: both;
 }
 .nav-item {
-color: #5fd38d;
+color: $analife-color;
 padding: 0.5em;
 }
 
@@ -65,7 +65,7 @@ width: 10em;
 border: 2px;
 border-color: #808080;
 border-style: solid;
-background: #5fd38d;
+background: $analife-color;
 color: #808080;
 font-size: 30px;
 text-align: center;
