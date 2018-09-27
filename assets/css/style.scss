@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+$analife-color: #5fd38d;
+
 #main_content_wrap {
 background-image: url("../../img/R_code.jpg");
 background-position: center; /* Center the image */
@@ -15,18 +17,23 @@ background: rgba(55,55,55,0.9);
 min-height: 75vh;
 }
 
+#contact {
+background: #212121;
+    &:hover {
+        color:$analife-color;
+    }
+}
+
 p, ul {
 color: #f2f2f2;
 }
 
-
-
 a {
-  color: #5fd38d;
+  color: $analife-color;
 }
 
 h1, h2 {
-color: #5fd38d;
+color: $analife-color;
 }
 
 h3, h4 {
@@ -45,7 +52,7 @@ display: table;
 clear: both;
 }
 .nav-item {
-color: #5fd38d;
+color: $analife-color;
 padding: 0.5em;
 }
 
@@ -58,7 +65,7 @@ width: 10em;
 border: 2px;
 border-color: #808080;
 border-style: solid;
-background: #5fd38d;
+background: $analife-color;
 color: #808080;
 font-size: 30px;
 text-align: center;
