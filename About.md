@@ -6,14 +6,17 @@
 
 <!---<img src="img/R_code.jpg" style="float:right" width="250px">--->
 
-Wir sind ein Würzburger StartUp und bieten ein breites Angebot im Data Science Bereich an.
+Wir sind ein junges Start-Up aus Würzburg und bieten ein breites Angebot an Dienstleistungen im Data Science Bereich an.
+Dazu gehören unter anderem:
 
-- Datenanalyse aller Art
-- Datengetriebene Beratung
+- Datenanalyse aller Art, Data-Mining
+- Datengetriebene Beratung, z.B. zu Optimierungsprozessen
 - Bioinformatik
 - Workshops zu Datenanalyse und Programmierung
 
-Bei Interesse oder Fragen freuen wir uns auf Ihre E-Mail.
+Wir sind erfahren in aktuellen Problematiken und Methoden wie Big-Data oder Machine-Learning.
+
+Bei Interesse oder Fragen sprechen Sie uns einfach an. Wir freuen uns auf Ihre E-Mail.
 
 
 <a href="mailto:info@analife.de" id="contact" class="contact_button"> Kontakt </a>
