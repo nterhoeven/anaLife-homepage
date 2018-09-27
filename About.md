@@ -11,7 +11,6 @@ Dazu gehören unter anderem:
 
 - Datenanalyse aller Art, Data-Mining
 - Datengetriebene Beratung, z.B. zu Optimierungsprozessen
-- Bioinformatik
 - Workshops zu Datenanalyse und Programmierung
 
 Wir sind erfahren in aktuellen Problematiken und Methoden wie Big-Data oder Machine-Learning.
