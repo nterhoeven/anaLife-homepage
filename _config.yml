@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "de_DE"
+title                    : "AnaLife Data Science"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "AnaLife Data Science"
+description              : "Data Science, persönlich auf Sie zugeschnitten."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -58,7 +58,7 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   : ""# blank (default) uses feed.xml
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -101,15 +101,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "AnaLife Data Science"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : 
+  location         : "Würzburg"
+  email            : "info@analife.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:info@analife.de
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -129,6 +129,12 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Impressum"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "/contact/"
+    - label: "Datenschutzerklärung"
+      icon: ""#"fab fa-fw fa-twitter-square"
+      url: "/privacy/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
