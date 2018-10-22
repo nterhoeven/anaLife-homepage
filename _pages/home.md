@@ -11,17 +11,17 @@ header:
   caption: 
 excerpt: 'Wir entwickeln Ihre maßgefertigte Data-Science-Lösung.<br />Dabei profitieren Sie von unserem reichhaltigen Erfahrungsschatz mit aktuellen Problematiken und Methoden wie Big-Data oder Deep-Learning.<br />Bei Interesse oder Fragen sprechen Sie uns einfach an.<br />Wir freuen uns auf Ihre E-Mail.'
 feature_row:
-  - image_path: 
+  - image_path: assets/images/codeblock.jpg
     alt: "datenanalyse"
     title: "Datenanalyse"
     excerpt: "Datenanalyse von klassischer deskriptiver Statistik bis zu Deep Learning. Wir betreiben auch Data-Mining an komplexen Daten."
     url: 
-  - image_path: 
+  - image_path:  assets/images/consult.jpg
     alt: "beratung"
     title: "Beratung"
     excerpt: "Wir bieten Ihnen eine datengetriebene Beratung, beispielsweise zu Optimierungspotential."
     url: 
-  - image_path: 
+  - image_path:  assets/images/chart.jpg
     alt: "prognose"
     title: "Prognose"
     excerpt: "Mithilfe Ihrer Daten entwickeln wir Modelle, die es erlauben, Vorhersagen über künftige Verkauszahlen zu treffen."
