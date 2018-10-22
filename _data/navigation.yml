@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Über uns"
+    url: /about/
   - title: "Kontakt"
     url: /contact/
   # - title: "About"

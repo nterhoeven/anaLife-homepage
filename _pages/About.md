@@ -1,19 +1,37 @@
 ---
 layout: splash
-permalink: /
+permalink: /about/
+title: AnaLife Data Science
+header:
+  overlay_color: "#808080"
+  overlay_filter: 
+  caption: 
+excerpt: 'Wir sind ein junges Start-Up aus Würzburg. Ursprünglich aus dem Bereich der Lebenswissenschaften kommend, haben wir langjährige Erfahrung im Umgang mit komplexen Daten.'
+feature_row:
+  - image_path: 
+    alt: "markusankenbrand"
+    title: "Dr. Markus Ankenbrand"
+    excerpt: ""
+    url: mailto:markus.ankenbrand@analife.de
+    btn_label: "E-Mail"
+  - image_path: 
+    alt: "janfreudenthal"
+    title: "Jan Freudenthal"
+    excerpt: ""
+    url: mailto:jan.freudenthal@analife.de
+    btn_label: "E-Mail"
+  - image_path: 
+    alt: "ludwigleidinger"
+    title: "Ludwig Leidinger"
+    excerpt: ""
+    url: mailto:ludwig.leidinger@analife.de
+    btn_label: "E-Mail"
+  - image_path: 
+    alt: "niklasterhoeven"
+    title: "Niklas Terhoeven"
+    excerpt: ""
+    url: mailto:niklas.terhoeven@analife.de
+    btn_label: "E-Mail"
 ---
-## AnaLife Data Science
 
-Wir sind ein junges Start-Up aus Würzburg und bieten ein breites Angebot an Dienstleistungen im Data-Science-Bereich an.
-Dazu gehören unter anderem:
-
-- Datenanalyse aller Art, Data-Mining
-- Datengetriebene Beratung, z.B. zu Optimierungsprozessen
-- Workshops zu Datenanalyse und Programmierung
-
-Wir sind erfahren in aktuellen Problematiken und Methoden wie Big-Data oder Machine-Learning.
-
-Bei Interesse oder Fragen sprechen Sie uns einfach an. Wir freuen uns auf Ihre E-Mail.
-
-
-<a href="mailto:info@analife.de" id="contact" class="contact_button"> Kontakt </a>
+{% include feature_row %}
