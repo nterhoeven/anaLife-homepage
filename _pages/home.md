@@ -4,6 +4,7 @@ permalink: /
 title: "Machen Sie mehr aus Ihren Daten!"
 header:
   overlay_color: "#808080"
+  overlay_filter: 0.5
   overlay_image: assets/images/archive.jpg
   cta_label: "<i class='fa fa-envelope'></i> Kontakt"
   cta_url: "mailto:info@analife.de"
@@ -13,12 +14,17 @@ feature_row:
   - image_path: 
     alt: "datenanalyse"
     title: "Datenanalyse"
-    excerpt: "Datenanalyse aller Art, Data-Mining"
+    excerpt: "Datenanalyse von klassischer deskriptiver Statistik bis zu Deep Learning. Wir betreiben auch Data-Mining an komplexen Daten."
     url: 
   - image_path: 
     alt: "beratung"
     title: "Beratung"
-    excerpt: "Datengetriebene Beratung, Optimierung, Prognose"
+    excerpt: "Wir bieten Ihnen eine datengetriebene Beratung, beispielsweise zu Optimierungspotential."
+    url: 
+  - image_path: 
+    alt: "prognose"
+    title: "Prognose"
+    excerpt: "Mithilfe Ihrer Daten entwickeln wir Modelle, die es erlauben, Vorhersagen über künftige Verkauszahlen zu treffen."
     url: 
 intro:
   - excerpt: 'Ein Auszug unserer Leistungen:'
