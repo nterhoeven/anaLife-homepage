@@ -4,6 +4,12 @@
       <nav id="site-nav" class="greedy-nav">
         <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
         <ul class="visible-links">
+            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+	    {% for page in pages %}
+	  <li class="masthead__menu-item">
+	      <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+          </li>
+	    {% endfor %}
           {%- for link in site.data.navigation.main -%}
             {%- if link.url contains '://' -%}
               {%- assign url = link.url -%}
