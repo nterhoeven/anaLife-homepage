@@ -1,6 +1,8 @@
 ---
 layout: archive
 permalink: /privacy
+lang: de
+ref: dsgvo
 ---
 
 <h1>Datenschutzerklärung</h1>

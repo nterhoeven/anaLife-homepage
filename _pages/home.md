@@ -2,6 +2,8 @@
 layout: splash
 permalink: /
 title: "Machen Sie mehr aus Ihren Daten!"
+lang: de
+ref: home
 header:
   overlay_color: "#808080"
   overlay_filter: 0.5

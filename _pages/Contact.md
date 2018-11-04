@@ -1,6 +1,8 @@
 ---
 layout: archive
 permalink: /contact/
+lang: de
+ref: contact
 ---
 
 # Kontakt

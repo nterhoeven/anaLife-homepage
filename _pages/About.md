@@ -2,6 +2,8 @@
 layout: splash
 permalink: /about/
 title: AnaLife Data Science
+lang: de
+ref: about
 header:
   overlay_color: "#808080"
   overlay_filter: 
