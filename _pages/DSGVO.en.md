@@ -1,13 +1,13 @@
 ---
 layout: archive
-permalink: /privacy
+permalink: /en/privacy
 lang: en
 ref: dsgvo
 title: Privacy Statement
-linktext: Privacy Statement
+footlinktext: Privacy Statement
 ---
 
-<h3>Currently only available in German, sorry. Please do not hesitate to contact us with any questions regarding your privacy.</h3>
+<h3>Currently only available in German, sorry. Please do not hesitate to <a href="mailto:info@analife.de">contact us</a> with any questions regarding your privacy.</h3>
 <p>Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:</p>
 <p>AnaLife Data Science</p>
 <h2>Ihre Betroffenenrechte</h2>

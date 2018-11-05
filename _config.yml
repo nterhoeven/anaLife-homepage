@@ -129,12 +129,14 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Impressum"
+    - ref: contact
       icon: "fas fa-fw fa-envelope-square"
-      url: "/contact/"
-    - label: "Datenschutzerklärung"
+          #    - label: "Impressum"
+          #      url: "/contact/"
+    - ref: dsgvo
       icon: ""#"fab fa-fw fa-twitter-square"
-      url: "/privacy/"
+          #    - label: "Datenschutzerklärung"
+          #      url: "/privacy/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:

@@ -5,6 +5,7 @@ lang: de
 ref: contact
 title: Kontakt
 linktext: Kontakt
+footlinktext: Impressum
 ---
 
 AnaLife Data Science

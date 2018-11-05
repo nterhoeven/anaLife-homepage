@@ -4,7 +4,7 @@ permalink: /privacy
 lang: de
 ref: dsgvo
 title: Datenschutzerklärung
-linktext: Datenschutzerklärung
+footlinktext: Datenschutzerklärung
 ---
 
 <p>Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:</p>

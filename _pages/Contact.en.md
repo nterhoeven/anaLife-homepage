@@ -5,6 +5,7 @@ lang: en
 ref: contact
 title: Contact
 linktext: Contact
+footlinktext: Imprint
 ---
 
 AnaLife Data Science
