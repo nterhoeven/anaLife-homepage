@@ -3,9 +3,10 @@ layout: archive
 permalink: /privacy
 lang: de
 ref: dsgvo
+title: Datenschutzerklärung
+linktext: Datenschutzerklärung
 ---
 
-<h1>Datenschutzerklärung</h1>
 <p>Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:</p>
 <p>AnaLife Data Science</p>
 <h2>Ihre Betroffenenrechte</h2>

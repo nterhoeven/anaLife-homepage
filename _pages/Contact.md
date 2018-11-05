@@ -3,9 +3,9 @@ layout: archive
 permalink: /contact/
 lang: de
 ref: contact
+title: Kontakt
+linktext: Kontakt
 ---
-
-# Kontakt
 
 AnaLife Data Science
 

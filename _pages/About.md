@@ -2,6 +2,7 @@
 layout: splash
 permalink: /about/
 title: AnaLife Data Science
+linktext: Über uns
 lang: de
 ref: about
 header:

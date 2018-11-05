@@ -11,13 +11,23 @@
           </li>
 	    {% endfor %}
           {%- for link in site.data.navigation.main -%}
-            {%- if link.url contains '://' -%}
-              {%- assign url = link.url -%}
+            {%- if link.ref -%}
+              {% assign page_in_lang=site.pages | where:"ref", link.ref | where:"lang", page.lang %}
+              {%- if page_in_lang -%}
+                {%- assign url = page_in_lang[0].url -%}
+                {%- assign title = page_in_lang[0].linktext -%}
+              {%- endif -%}
             {%- else -%}
-              {%- assign url = link.url | relative_url -%}
+              {%- assign title = link.title -%}
+              {%- if link.url contains '://' -%}
+                {%- assign url = link.url -%}
+              {%- else -%}
+                {%- assign url = link.url | relative_url -%}
+              {%- endif -%}
             {%- endif -%}
             <li class="masthead__menu-item">
-              <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+	      {{ page_in_title }}
+              <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ title }}</a>
             </li>
           {%- endfor -%}
         </ul>
