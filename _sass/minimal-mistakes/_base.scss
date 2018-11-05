@@ -8,6 +8,10 @@ html {
   min-height: 100%;
 }
 
+.en:lang(en), .de:lang(de){
+  font-weight: bold;
+}
+
 body {
   margin: 0;
   padding: 0;
