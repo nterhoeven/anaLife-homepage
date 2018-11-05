@@ -2,7 +2,8 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        {% assign home_in_lang=site.pages | where:"ref", "home" | where: "lang", page.lang %}
+        <a class="site-title" href="{{ home_in_lang[0].url }}">{{ site.title }}</a>
         <ul class="visible-links">
             {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 	    {% for page in pages %}
