@@ -26,7 +26,7 @@ feature_row:
   - image_path:  assets/images/chart.jpg
     alt: "prognose"
     title: "Prognose"
-    excerpt: "Mithilfe Ihrer Daten entwickeln wir Modelle, die es erlauben, Vorhersagen über künftige Verkauszahlen zu treffen."
+    excerpt: "Mithilfe Ihrer Daten entwickeln wir Modelle, die es erlauben, Vorhersagen über künftige Entwicklungen, wie z.B. Verkauszahlen, zu treffen."
     url: 
 intro:
   - excerpt: 'Ein Auszug unserer Leistungen:'
