@@ -38,6 +38,27 @@ feature_row2:
     btn_label: "E-Mail"
 ---
 
-
+<!--
 {% include feature_row id="feature_row1" %}
 {% include feature_row id="feature_row2" %}
+-->
+
+
+<div style="margin: auto; width: 80%">
+<figure style="width: 220px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Markus_320-427.jpg" alt="">
+  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Dr. Markus Ankenbrand</b><br /><a href="mailto:markus.ankenbrand@analife.de" style="font-size: 1em">email</a></figcaption>
+</figure>
+<figure style="width: 220px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Jan_320-427.jpg" alt="">
+  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Jan Freudenthal</b><br /><a href="mailto:jan.freudenthal@analife.de" style="font-size: 1em">email</a></figcaption>
+</figure>
+<figure style="width: 220px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Ludwig_320-427.jpg" alt="">
+  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Ludwig Leidinger</b><br /><a href="mailto:ludwig.leidinger@analife.de" style="font-size: 1em">email</a></figcaption>
+</figure>
+<figure style="width: 220px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Niklas_320-427.jpg" alt="">
+  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Niklas Terhoeven</b><br /><a href="mailto:niklas.terhoeven@analife.de" style="font-size: 1em">email</a></figcaption>
+</figure>
+</div>
