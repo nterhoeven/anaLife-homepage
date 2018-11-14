@@ -11,7 +11,8 @@ footlinktext: Imprint
 AnaLife Data Science
 
 Wiesenweg 2<br>
-97084 Würzburg
+97084 Würzburg<br>
+Germany
 
 Email: info@analife.de
 
@@ -20,7 +21,7 @@ Email: info@analife.de
 <h2>Information according to § 5 TMG (Germany):</h2>
 <p>AnaLife Data Science (UG haftungsbeschränkt in Gründung)<br></p>
 <h3>Address:</h3>
-<p>Wiesenweg 2<br>97084 Würzburg<br></p>
+<p>Wiesenweg 2<br>97084 Würzburg<br>Germany<br></p>
 <h3>Contact:</h3>
 <p>Telephone: 015735361657<br>Email: info@analife.de</p>
 <h3>Represented by:</h3>

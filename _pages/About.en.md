@@ -9,7 +9,7 @@ header:
   overlay_color: "#808080"
   overlay_filter: 
   caption: 
-excerpt: 'We are a young Start-Up from Würzburg. Coming from a life science background we come with many years of experience in handling complex data.'
+excerpt: 'We are a young Start-Up from Würzburg, Germany. Coming from a life science background we share many years of experience in handling complex data.'
 feature_row1:
   - image_path: assets/images/Markus_320-427.jpg
     alt: "markusankenbrand"

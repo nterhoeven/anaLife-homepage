@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /en
-title: "Make more of your data!"
+title: "AnaLife your data!"
 lang: en
 ref: home
 header:
@@ -11,7 +11,7 @@ header:
   cta_label: "<i class='fa fa-envelope'></i> Contact"
   cta_url: "mailto:info@analife.de"
   caption: 
-excerpt: 'We develop individual data science solutions.<br/>You profit from our rich experience in handling of big data and state of the art methods like deep learning.<br/>If you are interested or have any questions, contact us.<br/>We are looking forward to hear from you.'
+excerpt: 'We develop data science solutions tailored to your needs.<br/>Profit from our rich experience in handling big data and state of the art methods like deep learning.<br/>Contact us for further information or with any kind of questions.<br/>We are looking forward to hearing from you.'
 feature_row:
   - image_path: assets/images/codeblock.jpg
     alt: "datenanalyse"
@@ -25,11 +25,11 @@ feature_row:
     url: 
   - image_path:  assets/images/chart.jpg
     alt: "prognose"
-    title: "Predictions"
-    excerpt: "We use your data to develop models that allow us to predict future sales numbers."
+    title: "Prediction"
+    excerpt: "Let the past guide you: We use your data to develop models for predicting future developments, e.g. sales numbers."
     url: 
 intro:
-  - excerpt: 'An excerpt of our services'
+  - excerpt: 'An excerpt of our services:'
 ---
 
 {% include feature_row id="intro" type="center" %}
