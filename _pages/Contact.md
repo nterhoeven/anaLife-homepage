@@ -1,9 +1,12 @@
 ---
 layout: archive
 permalink: /contact/
+lang: de
+ref: contact
+title: Kontakt
+linktext: Kontakt
+footlinktext: Impressum
 ---
-
-# Kontakt
 
 AnaLife Data Science
 

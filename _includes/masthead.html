@@ -2,16 +2,33 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        {% assign home_in_lang=site.pages | where:"ref", "home" | where: "lang", page.lang %}
+        <a class="site-title" href="{{ home_in_lang[0].url }}">{{ site.title }}</a>
         <ul class="visible-links">
+            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+	    {% for page in pages %}
+	  <li class="masthead__menu-item">
+	      <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+          </li>
+	    {% endfor %}
           {%- for link in site.data.navigation.main -%}
-            {%- if link.url contains '://' -%}
-              {%- assign url = link.url -%}
+            {%- if link.ref -%}
+              {% assign page_in_lang=site.pages | where:"ref", link.ref | where:"lang", page.lang %}
+              {%- if page_in_lang -%}
+                {%- assign url = page_in_lang[0].url -%}
+                {%- assign title = page_in_lang[0].linktext -%}
+              {%- endif -%}
             {%- else -%}
-              {%- assign url = link.url | relative_url -%}
+              {%- assign title = link.title -%}
+              {%- if link.url contains '://' -%}
+                {%- assign url = link.url -%}
+              {%- else -%}
+                {%- assign url = link.url | relative_url -%}
+              {%- endif -%}
             {%- endif -%}
             <li class="masthead__menu-item">
-              <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+	      {{ page_in_title }}
+              <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ title }}</a>
             </li>
           {%- endfor -%}
         </ul>

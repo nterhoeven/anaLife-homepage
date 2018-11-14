@@ -1,9 +1,12 @@
 # main links
+# either title+url or ref (for internal links using ref,lang,linktext)
 main:
-  - title: "Über uns"
-    url: /about/
-  - title: "Kontakt"
-    url: /contact/
+  - ref: about
+  - ref: contact
+  # - title: "Über uns"
+  #   url: /about/
+  # - title: "Kontakt"
+  #   url: /contact/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
