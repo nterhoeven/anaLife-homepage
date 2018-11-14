@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /en
-title: "Make more of your data!"
+title: "AnaLife your data!"
 lang: en
 ref: home
 header:
@@ -29,7 +29,7 @@ feature_row:
     excerpt: "Let the past guide you: We use your data to develop models for predicting future developments, e.g. sales numbers."
     url: 
 intro:
-  - excerpt: 'An excerpt of our services'
+  - excerpt: 'An excerpt of our services:'
 ---
 
 {% include feature_row id="intro" type="center" %}
