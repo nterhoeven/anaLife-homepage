@@ -10,7 +10,7 @@ header:
   overlay_filter: 
   caption: 
 excerpt: 'Wir sind ein junges Start-Up aus Würzburg. Ursprünglich aus dem Bereich der Lebenswissenschaften kommend, haben wir langjährige Erfahrung im Umgang mit komplexen Daten.'
-feature_row:
+feature_row1:
   - image_path: assets/images/Markus_320-427.jpg
     alt: "markusankenbrand"
     title: "Dr. Markus Ankenbrand"
@@ -23,6 +23,7 @@ feature_row:
     excerpt: ""
     url: mailto:jan.freudenthal@analife.de
     btn_label: "E-Mail"
+feature_row2:
   - image_path: assets/images/Ludwig_320-427.jpg
     alt: "ludwigleidinger"
     title: "Ludwig Leidinger"
@@ -37,4 +38,6 @@ feature_row:
     btn_label: "E-Mail"
 ---
 
-{% include feature_row %}
+
+{% include feature_row id="feature_row1" %}
+{% include feature_row id="feature_row2" %}
