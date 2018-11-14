@@ -11,7 +11,8 @@ footlinktext: Imprint
 AnaLife Data Science
 
 Wiesenweg 2<br>
-97084 Würzburg
+97084 Würzburg<br>
+Germany
 
 Email: info@analife.de
 
