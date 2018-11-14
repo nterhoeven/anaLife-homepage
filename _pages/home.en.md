@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /en
-title: "Make more out of your data!"
+title: "Make more of your data!"
 lang: en
 ref: home
 header:
@@ -11,17 +11,17 @@ header:
   cta_label: "<i class='fa fa-envelope'></i> Contact"
   cta_url: "mailto:info@analife.de"
   caption: 
-excerpt: 'We develop individual data science solutions.<br/>You profit from our rich experience in handling of big data and state of the art methods like deep learning.<br/>If you are interested or have any questions, contact us.<br/>We are looking forward to hearing from you.'
+excerpt: 'We develop individual data science solutions.<br/>You profit from our rich experience in handling of big data and state of the art methods like deep learning.<br/>If you are interested or have any questions, contact us.<br/>We are looking forward to hear from you.'
 feature_row:
   - image_path: assets/images/codeblock.jpg
     alt: "datenanalyse"
     title: "Data Analysis"
-    excerpt: "Full spectrum from classical descriptive statistics to deep learning. We also apply data-mining on complex daten."
+    excerpt: "Full spectrum from classical descriptive statistics to deep learning. We also apply data-mining technologies on complex data."
     url: 
   - image_path:  assets/images/consult.jpg
     alt: "beratung"
     title: "Consulting"
-    excerpt: "We offer data driven consulting, for example for optimization potential."
+    excerpt: "We offer data driven consulting. Explore your optimization potential."
     url: 
   - image_path:  assets/images/chart.jpg
     alt: "prognose"
