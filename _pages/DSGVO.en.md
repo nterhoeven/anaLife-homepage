@@ -14,8 +14,8 @@ footlinktext: Privacy Statement
 <p>I. Information about us as controllers of your data<br>II. The rights of users and data subjects<br>III. Information about the data processing</p>
 <h3>I. Information about us as controllers of your data</h3>
 <p>The party responsible for this website (the "controller") for purposes of data protection law is:</p>
-<p>AnaLife Data Science UG (haftungsbeschränkt)<br>Friedrich-Bergius-Ring 15<br>97076 Würzburg<br>Deutschland</p>
-<p>Telefon: +49 1573 53 616 57<br>E-Mail: datenschutz@analife.de</p>
+<p>AnaLife Data Science UG (haftungsbeschränkt)<br>Wiesenweg 2<br>97084 Würzburg<br>Deutschland</p>
+<p>Telefon: +49 1573 53 616 57<br>E-Mail: privacy@analife.de</p>
 
 <!--
 <p><span style="color: #ff0000;">Sample company/entrepreneur</span><br><span style="color: #ff0000;">Any street 1</span><br><span style="color: #ff0000;">12345 Anytown</span><br><span style="color: #ff0000;">Germany</span></p>
