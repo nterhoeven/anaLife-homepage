@@ -21,7 +21,7 @@ feature_row:
   - image_path:  assets/images/consult.jpg
     alt: "beratung"
     title: "Beratung"
-    excerpt: "Wir bieten Ihnen eine datengetriebene Beratung, beispielsweise zu Optimierungspotential."
+    excerpt: "Wir bieten Ihnen eine datengetriebene Beratung. Entdecken Sie Ihr Optimierungspotential."
     url: 
   - image_path:  assets/images/chart.jpg
     alt: "prognose"
