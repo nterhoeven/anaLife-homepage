@@ -5,12 +5,6 @@
         {% assign home_in_lang=site.pages | where:"ref", "home" | where: "lang", page.lang %}
         <a class="site-title" href="{{ home_in_lang[0].url }}">{{ site.title }}</a>
         <ul class="visible-links">
-            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-	    {% for page in pages %}
-	  <li class="masthead__menu-item">
-	      <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
-          </li>
-	    {% endfor %}
           {%- for link in site.data.navigation.main -%}
             {%- if link.ref -%}
               {% assign page_in_lang=site.pages | where:"ref", link.ref | where:"lang", page.lang %}
@@ -31,6 +25,12 @@
               <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ title }}</a>
             </li>
           {%- endfor -%}
+            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+	    {% for page in pages %}
+	  <li class="masthead__menu-item">
+	      <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+          </li>
+	    {% endfor %}
         </ul>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
