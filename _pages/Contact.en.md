@@ -10,7 +10,7 @@ footlinktext: Imprint
 
 AnaLife Data Science
 
-Friedrich-bergius-Ring 15<br>
+Friedrich-Bergius-Ring 15<br>
 97076 Würzburg<br>
 Germany
 
