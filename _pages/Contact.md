@@ -10,11 +10,11 @@ footlinktext: Impressum
 
 AnaLife Data Science
 
-Wiesenweg 2<br>
-97084 Würzburg
+Friedrich-Bergius-Ring 15<br>
+97076 Würzburg
 
 Email: info@analife.de
-
+Tel.: +49 931 78085897
 
 <h1>Impressum</h1>
 <h2>Angaben gemäß § 5 TMG:</h2>
@@ -22,9 +22,9 @@ Email: info@analife.de
 <p>Registergericht: Würzburg<br>
 Registernummer: HRB 14382<br></p>
 <h3>Postanschrift:</h3>
-<p>Wiesenweg 2<br>97084 Würzburg<br></p>
+<p>Friedrich-Bergius-Ring 15<br>97076 Würzburg<br></p>
 <h3>Kontakt:</h3>
-<p>Telefon: +49 1573 5361657<br>E-Mail: info@analife.de</p>
+<p>Telefon: +49 931 78085897<br>E-Mail: info@analife.de</p>
 <h3>Vertreten durch:</h3>
 <p>Geschäftsführer:
 <br>Dr. Markus Ankenbrand
