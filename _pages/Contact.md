@@ -13,7 +13,7 @@ AnaLife Data Science
 Friedrich-Bergius-Ring 15<br>
 97076 Würzburg
 
-Email: info@analife.de
+Email: info@analife.de<br>
 Tel.: +49 931 78085897
 
 <h1>Impressum</h1>
