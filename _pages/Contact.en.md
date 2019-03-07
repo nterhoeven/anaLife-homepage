@@ -14,7 +14,7 @@ Friedrich-Bergius-Ring 15<br>
 97076 Würzburg<br>
 Germany
 
-Email: info@analife.de
+Email: info@analife.de<br>
 Phone: +49 931 78085897
 
 <h1>Imprint</h1>
