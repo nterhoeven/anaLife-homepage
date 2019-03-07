@@ -10,12 +10,12 @@ footlinktext: Imprint
 
 AnaLife Data Science
 
-Wiesenweg 2<br>
-97084 Würzburg<br>
+Friedrich-bergius-Ring 15<br>
+97076 Würzburg<br>
 Germany
 
 Email: info@analife.de
-
+Phone: +49 931 78085897
 
 <h1>Imprint</h1>
 <h2>Information according to § 5 TMG (Germany):</h2>
@@ -23,9 +23,9 @@ Email: info@analife.de
 <p>Registergericht: Würzburg<br />
 Registernummer: HRB 14382<br></p>
 <h3>Address:</h3>
-<p>Wiesenweg 2<br>97084 Würzburg<br>Germany<br></p>
+<p>Friedrich-Bergius-Ring 15<br>97076 Würzburg<br>Germany<br></p>
 <h3>Contact:</h3>
-<p>Telephone: +49 1573 5361657<br>Email: info@analife.de</p>
+<p>Telephone:  +49 931 78085897<br>Email: info@analife.de</p>
 <h3>Represented by:</h3>
 <p>Managing directors:
 <br>Dr. Markus Ankenbrand
