@@ -7,7 +7,8 @@ lang: en
 ref: about
 header:
   overlay_color: "#808080"
-  overlay_filter: 
+  overlay_image: assets/images/cables.jpg
+  overlay_filter: 0.5
   caption: 
 excerpt: 'We are a young Start-Up from Würzburg, Germany. Coming from a life science background we share many years of experience in handling complex data.'
 feature_row1:
@@ -47,15 +48,15 @@ feature_row4:
 </figure>
 <figure style="width: 220px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Jan_320-427.jpg" alt="">
-  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Jan Freudenthal</b><br /><a href="mailto:jan.freudenthal@analife.de" style="font-size: 1em">email</a></figcaption>
+  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Jan Freudenthal, M.Sc.</b><br /><a href="mailto:jan.freudenthal@analife.de" style="font-size: 1em">email</a></figcaption>
 </figure>
 <figure style="width: 220px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Ludwig_320-427.jpg" alt="">
-  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Ludwig Leidinger</b><br /><a href="mailto:ludwig.leidinger@analife.de" style="font-size: 1em">email</a></figcaption>
+  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Ludwig Leidinger, M.Sc.</b><br /><a href="mailto:ludwig.leidinger@analife.de" style="font-size: 1em">email</a></figcaption>
 </figure>
 <figure style="width: 220px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Niklas_320-427.jpg" alt="">
-  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Niklas Terhoeven</b><br /><a href="mailto:niklas.terhoeven@analife.de" style="font-size: 1em">email</a></figcaption>
+  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Niklas Terhoeven, M.Sc.</b><br /><a href="mailto:niklas.terhoeven@analife.de" style="font-size: 1em">email</a></figcaption>
 </figure>
 </div>
 

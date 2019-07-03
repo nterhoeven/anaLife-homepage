@@ -6,10 +6,11 @@ linktext: Über uns
 lang: de
 ref: about
 header:
+  overlay_image: assets/images/cables.jpg	
   overlay_color: "#808080"
-  overlay_filter: 
+  overlay_filter: 0.5 
   caption: 
-excerpt: 'Wir sind ein junges Start-Up aus Würzburg. Ursprünglich aus dem Bereich der Lebenswissenschaften kommend, haben wir langjährige Erfahrung im Umgang mit komplexen Daten.'
+excerpt: 'Wir haben langjährige Erfahrung als Forscher und Entwickler im Bereich der Bioinformatik. Als Biologen sind wir es gewohnt, komplexe Systeme wissenschaftlich rigoros zu untersuchen. Als Informatiker haben wir das Know-How, um Datensätze jeder Größe mit modernsten Methoden und Technologien zu analysieren.'
 feature_row1:
   - image_path: assets/images/Markus_320-427.jpg
     alt: "markusankenbrand"
@@ -47,18 +48,18 @@ feature_row2:
 <div style="margin: auto; width: 80%">
 <figure style="width: 220px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Markus_320-427.jpg" alt="">
-  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Dr. Markus Ankenbrand</b><br /><a href="mailto:markus.ankenbrand@analife.de" style="font-size: 1em">email</a></figcaption>
+  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Dr. Markus Ankenbrand</b><br /><a href="mailto:markus.ankenbrand@analife.de" style="font-size: 1em">E-Mail</a></figcaption>
 </figure>
 <figure style="width: 220px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Jan_320-427.jpg" alt="">
-  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Jan Freudenthal</b><br /><a href="mailto:jan.freudenthal@analife.de" style="font-size: 1em">email</a></figcaption>
+  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Jan Freudenthal, M.Sc.</b><br /><a href="mailto:jan.freudenthal@analife.de" style="font-size: 1em">E-Mail</a></figcaption>
 </figure>
 <figure style="width: 220px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Ludwig_320-427.jpg" alt="">
-  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Ludwig Leidinger</b><br /><a href="mailto:ludwig.leidinger@analife.de" style="font-size: 1em">email</a></figcaption>
+  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Ludwig Leidinger, M.Sc.</b><br /><a href="mailto:ludwig.leidinger@analife.de" style="font-size: 1em">E-Mail</a></figcaption>
 </figure>
 <figure style="width: 220px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Niklas_320-427.jpg" alt="">
-  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Niklas Terhoeven</b><br /><a href="mailto:niklas.terhoeven@analife.de" style="font-size: 1em">email</a></figcaption>
+  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Niklas Terhoeven, M.Sc.</b><br /><a href="mailto:niklas.terhoeven@analife.de" style="font-size: 1em">E-Mail</a></figcaption>
 </figure>
 </div>
