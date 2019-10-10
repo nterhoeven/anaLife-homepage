@@ -16,7 +16,7 @@ footlinktext: Datenschutzerklärung
 <h3>I. Informationen über uns als Verantwortliche</h3>
 <p>Verantwortlicher Anbieter dieses Internetauftritts im datenschutzrechtlichen Sinne ist:</p>
 <p>AnaLife Data Science UG (haftungsbeschränkt)<br>Friedrich-Bergius-Ring 15<br>97076 Würzburg<br>Deutschland</p>
-<p>Telefon: +49 931 78085897<br>E-Mail: datenschutz@analife.de</p>
+<p>Telefon: +49 178 3488268<br>E-Mail: datenschutz@analife.de</p>
 <!--
 <p>Datenschutzbeauftragte/r beim Anbieter ist:</p>
 <p></p>

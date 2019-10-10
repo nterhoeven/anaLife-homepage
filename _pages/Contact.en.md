@@ -15,7 +15,7 @@ Friedrich-Bergius-Ring 15<br>
 Germany
 
 Email: info@analife.de<br>
-Phone: +49 931 78085897
+Phone: +49 178 3488268
 
 <h1>Imprint</h1>
 <h2>Information according to § 5 TMG (Germany):</h2>
@@ -25,7 +25,7 @@ Registernummer: HRB 14382<br></p>
 <h3>Address:</h3>
 <p>Friedrich-Bergius-Ring 15<br>97076 Würzburg<br>Germany<br></p>
 <h3>Contact:</h3>
-<p>Telephone:  +49 931 78085897<br>Email: info@analife.de</p>
+<p>Telephone:  +49 178 3488268<br>Email: info@analife.de</p>
 <h3>Represented by:</h3>
 <p>Managing directors:
 <br>Dr. Markus Ankenbrand
