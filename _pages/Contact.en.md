@@ -10,8 +10,8 @@ footlinktext: Imprint
 
 AnaLife Data Science
 
-Friedrich-Bergius-Ring 15<br>
-97076 Würzburg<br>
+Wiesengrund 16<br>
+97295 Waldbrunn<br>
 Germany
 
 Email: info@analife.de<br>
@@ -23,7 +23,7 @@ Phone: +49 178 3488268
 <p>Registergericht: Würzburg<br />
 Registernummer: HRB 14382<br></p>
 <h3>Address:</h3>
-<p>Friedrich-Bergius-Ring 15<br>97076 Würzburg<br>Germany<br></p>
+<p>Wiesengrund 16<br>97295 Waldbrunn<br>Germany<br></p>
 <h3>Contact:</h3>
 <p>Telephone:  +49 178 3488268<br>Email: info@analife.de</p>
 <h3>Represented by:</h3>
