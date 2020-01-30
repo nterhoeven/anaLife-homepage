@@ -33,7 +33,7 @@ feature_row2:
     btn_label: "E-Mail"
   - image_path: assets/images/Niklas_320-427.jpg
     alt: "niklasterhoeven"
-    title: "Niklas Terhoeven"
+    title: "Dr. Niklas Terhoeven"
     excerpt: ""
     url: mailto:niklas.terhoeven@analife.de
     btn_label: "E-Mail"
@@ -60,6 +60,6 @@ feature_row2:
 </figure>
 <figure style="width: 220px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Niklas_320-427.jpg" alt="">
-  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Niklas Terhoeven, M.Sc.</b><br /><a href="mailto:niklas.terhoeven@analife.de" style="font-size: 1em">E-Mail</a></figcaption>
+  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Dr. Niklas Terhoeven</b><br /><a href="mailto:niklas.terhoeven@analife.de" style="font-size: 1em">E-Mail</a></figcaption>
 </figure>
 </div>
