@@ -35,7 +35,7 @@ feature_row3:
 feature_row4:
   - image_path:  assets/images/Niklas_320-427.jpg
     alt: "niklasterhoeven"
-    title: "Niklas Terhoeven"
+    title: "Dr. Niklas Terhoeven"
     excerpt: ""
     url: mailto:niklas.terhoeven@analife.de
     btn_label: "email"
@@ -56,7 +56,7 @@ feature_row4:
 </figure>
 <figure style="width: 220px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Niklas_320-427.jpg" alt="">
-  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Niklas Terhoeven, M.Sc.</b><br /><a href="mailto:niklas.terhoeven@analife.de" style="font-size: 1em">email</a></figcaption>
+  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Dr. Niklas Terhoeven, M.Sc.</b><br /><a href="mailto:niklas.terhoeven@analife.de" style="font-size: 1em">email</a></figcaption>
 </figure>
 </div>
 
