@@ -56,7 +56,7 @@ feature_row4:
 </figure>
 <figure style="width: 220px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Niklas_320-427.jpg" alt="">
-  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Dr. Niklas Terhoeven, M.Sc.</b><br /><a href="mailto:niklas.terhoeven@analife.de" style="font-size: 1em">email</a></figcaption>
+  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Dr. Niklas Terhoeven</b><br /><a href="mailto:niklas.terhoeven@analife.de" style="font-size: 1em">email</a></figcaption>
 </figure>
 </div>
 
