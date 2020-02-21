@@ -1,0 +1,120 @@
+I"#<h1 id="unser-team">Unser Team</h1>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/Jan_320-427.jpg" alt="janfreudenthal" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Dr. Jan Freudenthal</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Jan Freudenthal ist unser Experte für Künstliche Intelligenz und Machine Learning. In seiner Dissertation hat er KI-basierte Modelle zur Vorhersage von Ernteerträgen entwickelt und für die Nutzung auf GPUs optimiert.</p>
+
+            </div>
+          
+
+          
+            <p><a href="mailto:jan.freudenthal@analife.de" class="btn ">E-Mail</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/Ludwig_320-427.jpg" alt="ludwigleidinger" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Dr. Ludwig Leidinger</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Modellierung, Statistik</p>
+
+            </div>
+          
+
+          
+            <p><a href="mailto:ludwig.leidinger@analife.de" class="btn ">E-Mail</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/Niklas_320-427.jpg" alt="niklasterhoeven" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Dr. Niklas Terhoeven</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Datenmanagement, Statistik</p>
+
+            </div>
+          
+
+          
+            <p><a href="mailto:niklas.terhoeven@analife.de" class="btn ">E-Mail</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<!-- <div style="margin: auto; width: 80%"> -->
+<!-- <figure style="width: 220px" class="align-left"> -->
+<!--   <img src="http://localhost:4000/assets/images/Markus_320-427.jpg" alt=""> -->
+<!--   <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Dr. Markus Ankenbrand</b><br /><a href="mailto:markus.ankenbrand@analife.de" style="font-size: 1em">E-Mail</a></figcaption> -->
+<!-- </figure> -->
+<!-- <figure style="width: 220px" class="align-left"> -->
+<!--   <img src="http://localhost:4000/assets/images/Jan_320-427.jpg" alt=""> -->
+<!--   <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Jan Freudenthal, M.Sc.</b><br /><a href="mailto:jan.freudenthal@analife.de" style="font-size: 1em">E-Mail</a></figcaption> -->
+<!-- </figure> -->
+<!-- <figure style="width: 220px" class="align-left"> -->
+<!--   <img src="http://localhost:4000/assets/images/Ludwig_320-427.jpg" alt=""> -->
+<!--   <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Ludwig Leidinger, M.Sc.</b><br /><a href="mailto:ludwig.leidinger@analife.de" style="font-size: 1em">E-Mail</a></figcaption> -->
+<!-- </figure> -->
+<!-- <figure style="width: 220px" class="align-left"> -->
+<!--   <img src="http://localhost:4000/assets/images/Niklas_320-427.jpg" alt=""> -->
+<!--   <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Dr. Niklas Terhoeven</b><br /><a href="mailto:niklas.terhoeven@analife.de" style="font-size: 1em">E-Mail</a></figcaption> -->
+<!-- </figure> -->
+<!-- </div> -->
+:ET

@@ -1,0 +1,20 @@
+I"–<div style="margin: auto; width: 80%">
+<figure style="width: 220px" class="align-left">
+  <img src="http://localhost:4000/assets/images/Markus_320-427.jpg" alt="" />
+  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Dr. Markus Ankenbrand</b><br /><a href="mailto:markus.ankenbrand@analife.de" style="font-size: 1em">email</a></figcaption>
+</figure>
+<figure style="width: 220px" class="align-left">
+  <img src="http://localhost:4000/assets/images/Jan_320-427.jpg" alt="" />
+  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Jan Freudenthal, M.Sc.</b><br /><a href="mailto:jan.freudenthal@analife.de" style="font-size: 1em">email</a></figcaption>
+</figure>
+<figure style="width: 220px" class="align-left">
+  <img src="http://localhost:4000/assets/images/Ludwig_320-427.jpg" alt="" />
+  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Ludwig Leidinger, M.Sc.</b><br /><a href="mailto:ludwig.leidinger@analife.de" style="font-size: 1em">email</a></figcaption>
+</figure>
+<figure style="width: 220px" class="align-left">
+  <img src="http://localhost:4000/assets/images/Niklas_320-427.jpg" alt="" />
+  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Dr. Niklas Terhoeven</b><br /><a href="mailto:niklas.terhoeven@analife.de" style="font-size: 1em">email</a></figcaption>
+</figure>
+</div>
+
+:ET

@@ -1,0 +1,129 @@
+I"
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Ein Auszug unserer Leistungen:</p>
+
+            </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/codeblock.jpg" alt="datenanalyse" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Datenanalyse</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Datenanalyse von klassischer deskriptiver Statistik bis zu Deep Learning. Wir betreiben auch Data-Mining an komplexen Daten.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/services/" class="btn ">Learn More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/consult.jpg" alt="beratung" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Beratung</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Wir helfen Ihnen bei allen Fragen rund um das Thema Datenverarbeitung und -analyse.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/services/" class="btn ">Learn More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/chart.jpg" alt="prognose" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Prognose</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Mithilfe Ihrer Daten entwickeln wir Modelle, die es erlauben, Vorhersagen über künftige Entwicklungen, wie z.B. Verkaufszahlen, zu treffen.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/services/" class="btn ">Learn More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+:ET

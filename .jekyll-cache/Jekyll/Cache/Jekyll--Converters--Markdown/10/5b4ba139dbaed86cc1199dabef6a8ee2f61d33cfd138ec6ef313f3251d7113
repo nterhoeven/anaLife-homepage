@@ -1,0 +1,29 @@
+I"�<hr />
+<p>layout: splash
+permalink: /blog/
+title: “Blog”
+linktext: “Blog”
+lang: de
+ref: blog
+header:
+  overlay_color: “#808080”
+  overlay_filter: 0.5
+  overlay_image: assets/images/archive.jpg
+ —</p>
+
+<h2 id="datenanalyse">Datenanalyse</h2>
+<p><img src="/assets/images/codeblock.jpg" />
+Ob Keyword-clustering, statistische Auswertung von Umfragen oder Data Mining mit Hilfe von Künstlicher Intelligenz. Wir können Ihre Daten
+auswerten und verhelfen Ihnen so zu neuen Erkenntnissen über Ihre Produktion, Kunden, Mitarbeiter oder Verkäufen.</p>
+
+<h2 id="beratung">Beratung</h2>
+<p><img src="/assets/images/consult.jpg" />
+Wir beraten Sie gerne zu allen Themen rund um Data Science. Ob Aufnahme, Speicherung, Visualisierung oder Auswertung  - Mit unserer langjährigen Expertise
+unterstützen wir Sie in allen Phasen der Datenverarbeitung.</p>
+
+<h2 id="prognose">Prognose</h2>
+<p><img src="/assets/images/chart.jpg" />
+Mit Hilfe modernster Machine-Learning Methoden entwickeln wir maßgeschneiderte Modelle, die auf Basis Ihrer historischen Daten die Zukunft voraussagen können.
+So können wir beispielsweise Ihre Verkaufszahlen oder Ihren Energieverbrauch vorhersagen und Sparpotentiale erkennen.</p>
+
+:ET
