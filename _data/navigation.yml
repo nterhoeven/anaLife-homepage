@@ -3,6 +3,7 @@
 main:
   - ref: about
   - ref: services
+  - ref: blog
   - ref: contact
 
 # - title: "Über uns"
