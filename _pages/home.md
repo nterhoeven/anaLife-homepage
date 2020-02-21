@@ -17,17 +17,17 @@ feature_row:
     alt: "datenanalyse"
     title: "Datenanalyse"
     excerpt: "Datenanalyse von klassischer deskriptiver Statistik bis zu Deep Learning. Wir betreiben auch Data-Mining an komplexen Daten."
-    url: 
+    url: /services/
   - image_path:  assets/images/consult.jpg
     alt: "beratung"
     title: "Beratung"
-    excerpt: "Wir bieten Ihnen eine datengetriebene Beratung. Entdecken Sie Ihr Optimierungspotential."
-    url: 
+    excerpt: "Wir helfen Ihnen bei allen Fragen rund um das Thema Datenverarbeitung und -analyse."
+    url: /services/
   - image_path:  assets/images/chart.jpg
     alt: "prognose"
     title: "Prognose"
     excerpt: "Mithilfe Ihrer Daten entwickeln wir Modelle, die es erlauben, Vorhersagen über künftige Entwicklungen, wie z.B. Verkaufszahlen, zu treffen."
-    url: 
+    url: /services/
 intro:
   - excerpt: 'Ein Auszug unserer Leistungen:'
 ---

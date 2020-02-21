@@ -17,17 +17,17 @@ feature_row:
     alt: "datenanalyse"
     title: "Data Analysis"
     excerpt: "Full spectrum from classical descriptive statistics to deep learning. We also apply data-mining technologies on complex data."
-    url: 
+    url: /en/services/
   - image_path:  assets/images/consult.jpg
     alt: "beratung"
     title: "Consulting"
     excerpt: "We offer data driven consulting. Explore your optimization potential."
-    url: 
+    url: /en/services/
   - image_path:  assets/images/chart.jpg
     alt: "prognose"
     title: "Prediction"
     excerpt: "Let the past guide you: We use your data to develop models for predicting future developments, e.g. sales numbers."
-    url: 
+    url: /en/services/
 intro:
   - excerpt: 'An excerpt of our services:'
 ---
