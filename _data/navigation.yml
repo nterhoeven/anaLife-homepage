@@ -2,8 +2,10 @@
 # either title+url or ref (for internal links using ref,lang,linktext)
 main:
   - ref: about
+  - ref: services
   - ref: contact
-  # - title: "Über uns"
+
+# - title: "Über uns"
   #   url: /about/
   # - title: "Kontakt"
   #   url: /contact/
