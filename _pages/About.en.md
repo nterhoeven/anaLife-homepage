@@ -12,27 +12,20 @@ header:
   caption: 
 excerpt: 'We are a young Start-Up from Würzburg, Germany. Coming from a life science background we share many years of experience in handling complex data.'
 feature_row1:
-  - image_path: assets/images/Markus_320-427.jpg
-    alt: "markusankenbrand"
-    title: "Dr. Markus Ankenbrand"
-    excerpt: ""
-    url: mailto:markus.ankenbrand@analife.de
-    btn_label: "email"
-feature_row2:
   - image_path: assets/images/Jan_250.jpg 
     alt: "janfreudenthal"
     title: "Jan Freudenthal"
     excerpt: ""
     url: mailto:jan.freudenthal@analife.de
     btn_label: "email"
-feature_row3:
+feature_row2:
   - image_path:  assets/images/Ludwig_320-427.jpg
     alt: "ludwigleidinger"
     title: "Ludwig Leidinger"
     excerpt: ""
     url: mailto:ludwig.leidinger@analife.de
     btn_label: "email"
-feature_row4:
+feature_row3:
   - image_path:  assets/images/Niklas_320-427.jpg
     alt: "niklasterhoeven"
     title: "Dr. Niklas Terhoeven"
