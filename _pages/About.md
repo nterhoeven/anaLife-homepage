@@ -12,25 +12,19 @@ header:
   caption: 
 excerpt: 'Wir haben langjährige Erfahrung als Forscher und Entwickler im Bereich der Bioinformatik. Als Biologen sind wir es gewohnt, komplexe Systeme wissenschaftlich rigoros zu untersuchen. Als Informatiker haben wir das Know-How, um Datensätze jeder Größe mit modernsten Methoden und Technologien zu analysieren.'
 feature_row1:
-  - image_path: assets/images/Markus_320-427.jpg
-    alt: "markusankenbrand"
-    title: "Dr. Markus Ankenbrand"
-    excerpt: ""
-    url: mailto:markus.ankenbrand@analife.de
-    btn_label: "E-Mail"
   - image_path: assets/images/Jan_320-427.jpg
     alt: "janfreudenthal"
     title: "Jan Freudenthal"
     excerpt: ""
     url: mailto:jan.freudenthal@analife.de
     btn_label: "E-Mail"
-feature_row2:
   - image_path: assets/images/Ludwig_320-427.jpg
     alt: "ludwigleidinger"
     title: "Ludwig Leidinger"
     excerpt: ""
     url: mailto:ludwig.leidinger@analife.de
     btn_label: "E-Mail"
+feature_row2:
   - image_path: assets/images/Niklas_320-427.jpg
     alt: "niklasterhoeven"
     title: "Dr. Niklas Terhoeven"
