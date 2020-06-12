@@ -36,10 +36,6 @@ feature_row3:
 
 <div style="margin: auto; width: 80%">
 <figure style="width: 220px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Markus_320-427.jpg" alt="">
-  <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Dr. Markus Ankenbrand</b><br /><a href="mailto:markus.ankenbrand@analife.de" style="font-size: 1em">email</a></figcaption>
-</figure>
-<figure style="width: 220px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Jan_320-427.jpg" alt="">
   <figcaption style="font-family: 'Fira Sans',sans-serif"><b style="font-size: 1.25em">Jan Freudenthal, M.Sc.</b><br /><a href="mailto:jan.freudenthal@analife.de" style="font-size: 1em">email</a></figcaption>
 </figure>
