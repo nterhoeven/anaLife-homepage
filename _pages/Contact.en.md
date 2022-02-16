@@ -28,7 +28,6 @@ Registernummer: HRB 14382<br></p>
 <p>Telephone:  +49 178 3488268<br>Email: info@analife.de</p>
 <h3>Represented by:</h3>
 <p>Managing directors:
-<br>Dr. Markus Ankenbrand
 <br>Jan Freudenthal
 <br>Ludwig Leidinger
 <br>Niklas Terhoeven</p>
